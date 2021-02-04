@@ -4,3 +4,5 @@ learning basics of git, to check the commit
 
 
 for creating new branch, we are writing this command , for future version
+
+need to merge this version with main branch
