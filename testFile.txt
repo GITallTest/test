@@ -1,1 +1,3 @@
 all commands which need to be used for sharing file via git
+
+learning basics of git , to check the commit 
