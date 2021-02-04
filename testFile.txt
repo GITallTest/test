@@ -1,0 +1,1 @@
+all commands which need to be used for sharing file via git
