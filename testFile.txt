@@ -1,8 +1,14 @@
 all commands which need to be used for sharing file via git
 
+
 learning basics of git, to check the commit 
 
 
 for creating new branch, we are writing this command , for future version
 
 need to merge this version with main branch
+
+learning basics of git , to check the commit 
+
+later on , will have to merge could-have branch with main to get hold features
+
